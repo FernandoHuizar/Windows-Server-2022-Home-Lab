@@ -126,5 +126,3 @@ Enterprise-level Active Directory environment built for hands-on learning and sk
 
 **Author:** Fernando Huizar  
 **Contact:** fernando.huizar.jr@gmail.com  
-**LinkedIn:** [Your LinkedIn URL]  
-**Portfolio:** [Your GitHub URL]
