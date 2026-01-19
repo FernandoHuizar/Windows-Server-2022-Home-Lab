@@ -107,7 +107,16 @@ Enterprise-level Active Directory environment built for hands-on learning and sk
 - Troubleshooting domain authentication issues
 
 ## Screenshots
-*Note: Screenshots available upon request to maintain lab security*
+Active Directory Users and Computers - 
+Group Policy Management Console - 
+Network Shares - 
+Action1 Dashboard - 
+Domain-joined computer - 
+Network drive mapped - 
+DNS Manager showing your zones - 
+Group Policy settings (password policy) - 
+Security group memberships - 
+Action1 vulnerability scan results - 
 
 ## Future Enhancements
 - Implement Windows Server Update Services (WSUS)
