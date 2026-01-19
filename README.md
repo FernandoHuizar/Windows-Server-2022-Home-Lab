@@ -107,16 +107,15 @@ Enterprise-level Active Directory environment built for hands-on learning and sk
 - Troubleshooting domain authentication issues
 
 ## Screenshots
-Active Directory Users and Computers - 
-Group Policy Management Console - 
-Network Shares - 
-Action1 Dashboard - 
-Domain-joined computer - 
-Network drive mapped - 
-DNS Manager showing your zones - 
-Group Policy settings (password policy) - 
-Security group memberships - 
-Action1 vulnerability scan results - 
+Active Directory Users and Computers - <img width="1588" height="1015" alt="image" src="https://github.com/user-attachments/assets/c8652832-34e1-49fd-bb5f-739a87e521e4" />
+Group Policy Management Console - <img width="1147" height="522" alt="image" src="https://github.com/user-attachments/assets/c4ab5d89-b37c-4764-bd6b-6d05348db884" />
+Group Policy settings (password policy) - <img width="1167" height="383" alt="image" src="https://github.com/user-attachments/assets/2db9398c-b0ba-44a4-8180-06c0460bb1a5" />
+Network Shares - <img width="1005" height="514" alt="image" src="https://github.com/user-attachments/assets/6b0590ec-6988-4577-b98f-d2ebf1c85676" />
+Network drive mapped - <img width="1580" height="1004" alt="image" src="https://github.com/user-attachments/assets/42f7f790-5e9f-4db0-bcc2-7429565fd913" />
+Domain-joined computer - <img width="1188" height="868" alt="image" src="https://github.com/user-attachments/assets/48b584d2-9bf5-40c9-af4c-c8ca83f947b6" />
+Action1 Dashboard - <img width="1890" height="791" alt="image" src="https://github.com/user-attachments/assets/a411d675-5ca2-4726-b1ba-f17906345c2e" />
+<img width="1124" height="309" alt="image" src="https://github.com/user-attachments/assets/c5cf1245-456f-4819-896b-1a0430394bc6" />
+<img width="1066" height="696" alt="image" src="https://github.com/user-attachments/assets/af347577-772e-4ca3-858d-344559856b36" />
 
 ## Future Enhancements
 - Implement Windows Server Update Services (WSUS)
